@@ -58,4 +58,7 @@ npm run build     # Create a production build
 npm run start     # Start the production server
 ```
 
-For the original course material, see the [Next.js App Router course](https://nextjs.org/learn).
+#username and password
+Email: user@nextmail.com
+Password: 123456
+
